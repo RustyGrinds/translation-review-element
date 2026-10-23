@@ -1,0 +1,10 @@
+node_modules/
+.cache/
+test-results/
+test-results-release/
+release/
+*.zip
+*.log
+.env
+.env.*
+!.env.example
